@@ -79,14 +79,16 @@ In order to package the project, you need to make sure that **Your_Project.uproj
 <img src="./images/PackageHTML5.png">
 </p>
 
-After the project has been packaged, go to the **/HISPlayerHTML5Resources** directory which is located on the HISPlayer SDK root directory ()
+After the project has been packaged, go to the **/HISPlayerHTML5Resources** directory which is located on the HISPlayer SDK root directory ( **Project Root Folder > Plugins > HISPlayer > HISPlayerHTML5Resources**), copy the **/js** folder and the **HISPlayerSample.html** file, and paste them into your project's packaged build folder.
 
 <p align="center">
 <img src="./images/PackageJS.png">
 </p>
 
+If you want to use a custom HTML file on your packaged project, you will have to include the **hisplayer.js** and **HISPlayerUnreal.js** files contained on the **/js** directory on your HTML file, as shown in the image below:
+
 <p align="center">
-<img src="./images/Include.png">
+<img src="./images/IncludeJS.png">
 </p>
 
 ## Updating the SDK
