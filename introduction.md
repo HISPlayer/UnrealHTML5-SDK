@@ -20,8 +20,6 @@ The most advanced video streaming player for Unreal Engine supporting VOD and Li
 ### Supported Graphics API:
 * WebGL 2.0
 
-### Multistream
-
 ### Maximum Supported Resolution:
   * 8,192 × 4,320 (8K)
 
