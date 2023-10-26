@@ -72,25 +72,21 @@ To do that on Unreal 5, go to **Edit > Project Settings > Engine > Rendering > D
 <img src="./images/AntiAliasing.png">
 </p>
 
-## Configure Android Project Settings
-Make sure that the **Support OpenGL ES3** option is enabled, **Vulkan Support** is disabled, and that all the Android Settings have been configurated according to your project needs. 
-<p align="center">
-<img src="./images/OpenGL.png">
-</p>
-
 ## Packaging the project
-Before packaging the project, please make sure first that you are using the right NDK and JDK versions needed for your specific Unreal Engine version. You can check which ones to install on the [official Unreal documentation page](https://docs.unrealengine.com/5.2/en-US/android-development-requirements-for-unreal-engine/) . If you have installed different NDK or JDK versions on your computer, you can always change the ones you are targeting on the **Project Settings > Platforms > Android SDK** menu.
-
 In order to package the project, you need to make sure that **Your_Project.uproject** file has been correctly updated on the **“Plugins”** field:
 
 <p align="center">
-<img src="./images/PluginUproject.png">
+<img src="./images/PackageHTML5.png">
 </p>
 
-You can update this file manually, or by clicking on the Update button when this message appears when opening the project with the plugin installed.
+After the project has been packaged, go to the **/HISPlayerHTML5Resources** directory which is located on the HISPlayer SDK root directory ()
 
 <p align="center">
-<img src="./images/Update.png">
+<img src="./images/PackageJS.png">
+</p>
+
+<p align="center">
+<img src="./images/Include.png">
 </p>
 
 ## Updating the SDK
