@@ -1,4 +1,4 @@
-- [HISPlayer Unreal Android SDK](/introduction.md)
+- [HISPlayer Unreal HTML5 SDK](/introduction.md)
 - [Quickstart Guide](/setup-guide.md)
 - [HISPlayer API](/hisplayer-api.md)
 - [Update the SDK](/update-the-sdk.md)
