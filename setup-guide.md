@@ -73,13 +73,7 @@ To do that on Unreal 5, go to **Edit > Project Settings > Engine > Rendering > D
 </p>
 
 ## Packaging the project
-In order to package the project, you need to make sure that **Your_Project.uproject** file has been correctly updated on the **“Plugins”** field:
-
-<p align="center">
-<img src="./images/PluginUproject.png">
-</p>
-
-Then, package your project for the HTML5 platform.
+First, package your project for the HTML5 platform.
 
 <p align="center">
 <img src="./images/PackageHTML5.png">
