@@ -25,7 +25,10 @@ The following public APIs are provided by **HISPlayerTypes**.
   * **OnEndContent**: The content ends.
     * **Param1**: Stream's index.
   * **OnTrackChanged**: The track of the stream has changed. 
-    * **Param1**: Stream's index. 
+    * **Param1**: Stream's index.
+  * **OnStatusChanged**: The HISPlayer Status has changed.
+    * **Param1**: The stream's status. 
+    * **Param2**: Stream's index. 
 <p align="center">
 <img src="./images/blueprint-example.png">
 </p>
