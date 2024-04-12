@@ -1,4 +1,4 @@
-# Setup Guide
+# QuickStart Guide
 Through this guide, you will be introduced to the basic steps for setting up the playback.
 
 ## Import Package
