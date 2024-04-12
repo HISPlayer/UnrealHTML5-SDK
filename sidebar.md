@@ -1,5 +1,5 @@
 - [HISPlayer Unreal HTML5 SDK](/introduction.md)
-- [Setup Guide](/setup-guide.md)
+- [QuickStart Guide](/setup-guide.md)
 - [HISPlayer API](/hisplayer-api.md)
 - [Update the SDK](/update-the-sdk.md)
 - [Releases](/releases.md)
